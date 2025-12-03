@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags:pr1yanshuuuuu/prog-5:latest
+          tags:pr1yanshuuuuu/prog-5-app:latest
